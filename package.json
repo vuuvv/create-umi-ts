@@ -1,6 +1,6 @@
 {
   "name": "create-umi-ts",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Creates a Typescript UmiJS application using the command line.",
   "bin": {
     "create-umi-ts": "./bin/cli.js"
