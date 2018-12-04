@@ -16,8 +16,8 @@
     "tslint-config-prettier": "^1.15.0",
     "tslint-eslint-rules": "^5.4.0",
     "tslint-react": "^3.6.0",
-    "umi": "^2.0.0-0",
-    "umi-plugin-react": "^1.0.0-0"
+    "umi": "^2.1.2",
+    "umi-plugin-react": "^1.1.1"
   },
   "engines": {
     "node": ">=8.0.0"
