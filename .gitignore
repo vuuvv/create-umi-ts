@@ -9,3 +9,4 @@
 /templates/**/dist
 /.idea
 /yarn.lock
+.npmrc
